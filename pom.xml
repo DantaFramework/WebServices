@@ -29,7 +29,17 @@
     <artifactId>web-services</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>bundle</packaging>
+
     <name>Danta WebServices</name>
+    <description>The Danta Web Services project</description>
+    <url>https://github.com/DantaFramework/WebServices</url>
+
+    <scm>
+        <connection>scm:git:git://github.com/DantaFramework/WebServices.git</connection>
+        <developerConnection>scm:git:ssh://github.com/DantaFramework/WebServices.git</developerConnection>
+        <url>https://github.com/DantaFramework/WebServices/tree/master</url>
+    </scm>
+
     <build>
         <plugins>
             <plugin>
