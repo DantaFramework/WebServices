@@ -1,0 +1,21 @@
+{
+  "executionContext": {
+    "server": "server1.public.acme.com",
+    "user": {
+      "guid": "14DD960A-B1DF-46C5-8EE8",
+      "userId": "someDude",
+      "firstName": "John",
+      "familyName": "Doe"
+    }
+  },
+  "contentModel": {
+    "page": {
+      "title": "Homepage",
+      "path": "/content/home.html"
+    },
+    "content": {
+      "text": "Nullam quis risus eget urna mollis ornare vel eu leo.",
+      "title": "Nullam Pellentesque Ipsum"
+    }
+  }
+}
