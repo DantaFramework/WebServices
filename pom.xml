@@ -113,4 +113,11 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
+    <repositories>
+        <repository>
+            <id>danta-nexus</id>
+            <name>Danta Repository</name>
+            <url>http://repo.tikaltechnologies.io/repository/danta-group/</url>
+        </repository>
+    </repositories>
 </project>
