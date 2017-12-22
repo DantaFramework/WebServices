@@ -1,6 +1,6 @@
 # Danta - WebServices Project
 
-Danta is the agnostic multi-platform templating engine. enables developers and IT teams to use technologies they already know, expediting the creation and leveraging of reusable technical assets.
+Danta is the agnostic multi-platform templating engine. Enables developers and IT teams to use technologies they already know, expediting the creation and leveraging of reusable technical assets.
 
 Danta - WebServices Project provides access to Danta via pure web services.
 
@@ -10,7 +10,7 @@ Danta - WebServices Project provides access to Danta via pure web services.
  * [Danta - API Project](https://github.com/DantaFramework/API)
  * [Danta - Core Project](https://github.com/DantaFramework/Core)
  * Java 8
- * Karaf 4.0.9 or later
+ * Apache Karaf 4.0.9 or later
 
 ## Documentation
 
